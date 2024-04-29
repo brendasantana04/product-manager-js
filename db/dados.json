@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": "be16",
+      "descricao": "Caderno 10 Matérias",
+      "categoria": "Papelaria",
+      "preco": 45
+    },
+    {
+      "id": "a58d",
+      "descricao": "Chocolate Cacau Show",
+      "categoria": "Alimentação",
+      "preco": 70
+    },
+    {
+      "id": "d0ab",
+      "descricao": "Vassoura",
+      "categoria": "Limpeza",
+      "preco": 12
+    },
+    {
+      "id": "f110",
+      "descricao": "Creme Dental",
+      "categoria": "Higiene",
+      "preco": 2.5
+    },
+    {
+      "id": "8049",
+      "descricao": "Jaqueta de Couro",
+      "categoria": "Vestuário",
+      "preco": 250.75
+    },
+    {
+      "id": "263d",
+      "descricao": "Bicicleta Infantil",
+      "categoria": "Veículo",
+      "preco": 389.9
+    }
+  ],
+  "historico": [
+    {
+      "id": "a5d7",
+      "descricao": "Vassoura",
+      "categoria": "Limpeza",
+      "preco": 12
+    },
+    {
+      "id": "1973",
+      "descricao": "Café",
+      "categoria": "Alimentação",
+      "preco": 3
+    },
+    {
+      "id": "3aec",
+      "descricao": "Porsche 911",
+      "categoria": "Veículo",
+      "preco": 800000
+    }
+  ]
+}
